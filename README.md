@@ -2,7 +2,9 @@
 
 A simple python script that downloads all files of the given format from a website and stores it in the given directory. It uses wget for the back-end.
 
-At the moment it requires that the given directory or path exists. It should work in all platforms provided they have the requirements.
+It doesn't require that the output directory or path exists. It should work in all platforms provided they have the requirements.
+
+At the moment it doesn't work for Google images links.
 
 ## Requirements
 
